@@ -3,7 +3,7 @@
 I'm an french engineering student.
 
 #### TIPE
-- My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_. To know when bikes will be avaible : check <a href="https://github.com/Tamiir/TIPE">here</a>.
+- My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_. To know when bikes will be available : check <a href="https://github.com/Tamiir/TIPE">here</a>.
 It might be updated/upgraded later.
 
 #### Currents projects/experiments
