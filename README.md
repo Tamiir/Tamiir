@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm an french engineering student.
+
+#### TIPE
+- My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_. To know when bikes will be avaible : check <a href="https://github.com/Tamiir/TIPE">here</a>.
+It might be updated/upgraded later.
+
+#### Currents projects/experiments
+- I'm curently trying to automate the Super Mario 64 DS mini game _Wanted_ using image recognition.  
+Any suggestion is welcome !
+
 <!--
 **Tamiir/Tamiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
