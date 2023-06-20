@@ -7,8 +7,11 @@ I'm an french engineering student.
 It might be updated/upgraded later.
 
 #### Currents projects/experiments
-- I'm curently trying to automate the Super Mario 64 DS mini game _Wanted_ using image recognition.  
+- I'm curently trying to automate the Super Mario 64 DS mini game _Wanted_ using image recognition. You can check this out and help me <a href="https://github.com/Tamiir/AutoWantedMiniGame">here</a> !  
 Any suggestion is welcome !
+
+#### Previous projects  
+- I made two mass and balance <a href="https://github.com/Tamiir/Masse-Centrage">calculators</a> for the plane in my aeroclub. It can be use by any pilot in _Le Cercle aérien Peugeot_. (_in french only_)
 
 <!--
 **Tamiir/Tamiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
