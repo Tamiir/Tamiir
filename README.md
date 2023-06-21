@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm an french engineering student. I'm interested in machine learning and in computer science as a whole.  
-I'm also a private pilot ✈️.
+I'm also a private pilot ✈️.  
+I mainly use Python to code but I also know OCaml as I'm learning it for the two past years. Few years ago I also learnt the basis of HTML and CSS. I plan to learn few more langages such as Java, Swift, or maybe C.
 
 #### TIPE
 - My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_. To know when bikes will be available : check <a href="https://github.com/Tamiir/TIPE">here</a>.
