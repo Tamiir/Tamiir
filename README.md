@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm an french engineering student. I'm interested in machine learning and in computer science as a whole.  
-I'm since this year a <a href ="https://www.telecom-sudparis.eu">Télécom SudParis</a> student.
+I'm since this year a <a href ="https://www.telecom-sudparis.eu">Télécom SudParis</a> student.  
 I'm also a private pilot ✈️.  
 I mainly use Python to code but I also know OCaml as I'm learning it for the two past years. Few years ago I also learnt the basis of HTML and CSS. I plan to learn few more langages such as Java, Swift, and maybe C.
 
