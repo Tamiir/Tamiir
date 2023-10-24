@@ -4,9 +4,9 @@ I'm an french engineering student. I'm interested in machine learning and in com
 
 I'm since this year a <a href ="https://www.telecom-sudparis.eu">Télécom SudParis</a> student.  
 
-I mainly use Python to code but I also know OCaml, I'm currently learning Java, Bash and Rust. Few years ago I also learnt the basis of HTML and CSS.
+I mainly use **Python** to code but I also know **OCaml**, I'm currently learning **Java**, **Bash** and **Rust**. Few years ago I also learnt the basis of **HTML** and **CSS**.
 
-I'm also a private pilot 👨🏻‍✈️.  
+I'm also a private pilot ✈️.  
 
 #### Currents projects/experiments
 - I'm working in a team for a school project about robotics and artificial intelligence. The goal is to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴
