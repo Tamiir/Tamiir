@@ -12,6 +12,7 @@ I'm also a private pilot ✈️.
 - I'm curently trying to automate the Super Mario 64 DS mini game _Wanted_ using image recognition. You can check this out and help me <a href="https://github.com/Tamiir/AutoWantedMiniGame">here</a> !
 Any suggestion is welcome !  🕹
 - I'm also trying to make my computer able to play <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect 4</a>. I'm using few different algorithms, again, any suggestion is welcome. Take a look <a href="https://github.com/Tamiir/Puissance4">here</a> ! 🧩
+- I'm making a website for my TIPE (see below). I'm doing the frontend and the API to work with the backend i did several years ago. The goal is to make this project available for anyone. 🚲
 
 #### TIPE
 - My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_.  
