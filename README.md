@@ -9,7 +9,6 @@ I mainly use **Python** to code but I also know **OCaml**, I'm currently learnin
 I'm also a private pilot ✈️.  
 
 #### Currents projects/experiments
-- I'm working in a team for a school project about robotics and artificial intelligence. The goal is to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴
 - I'm curently trying to automate the Super Mario 64 DS mini game _Wanted_ using image recognition. You can check this out and help me <a href="https://github.com/Tamiir/AutoWantedMiniGame">here</a> !
 Any suggestion is welcome !  🕹
 - I'm also trying to make my computer able to play <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect 4</a>. I'm using few different algorithms, again, any suggestion is welcome. Take a look <a href="https://github.com/Tamiir/Puissance4">here</a> ! 🧩
@@ -19,6 +18,7 @@ Any suggestion is welcome !  🕹
 To know when bikes will be available : check <a href="https://github.com/Tamiir/TIPE">here</a>.
 
 #### Previous projects  
+- I worked in a team for a school project about robotics and artificial intelligence. The goal is to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴
 - I made two mass and balance <a href="https://github.com/Tamiir/Masse-Centrage">calculators</a> for the plane in my aeroclub. It can be use by any pilot in <a href="http://www.aeroclub-cercle-aerien-peugeot.com">_Le Cercle aérien Peugeot_</a>. (_in french only_) ✈️
 
 <!--
