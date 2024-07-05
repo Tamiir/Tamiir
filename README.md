@@ -18,13 +18,8 @@ Any suggestion is welcome !  🕹
 - My TIPE is about prediction algorithms. I used them on the bike sharing system here in Paris : _Vélib'_.  
 To know when bikes will be available : check <a href="https://github.com/Tamiir/TIPE">here</a>.
 
-<<<<<<< HEAD
-#### Previous projects 
-- I worked in a team for a school project about robotics and artificial intelligence. The goal is to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴 
-=======
 #### Previous projects  
-- I worked in a team for a school project about robotics and artificial intelligence. The goal is to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴
->>>>>>> f1fe2c82af62ff6ec8442c7b2cd56593c3df6547
+- I worked in a team for a school project about robotics and artificial intelligence. The goal was to make an autonomous agricultural robot. Check the <a href='https://github.com/FarmIA/farmia'>organisation</a> to see more of our work ! 🪴
 - I made two mass and balance <a href="https://github.com/Tamiir/Masse-Centrage">calculators</a> for the plane in my aeroclub. It can be use by any pilot in <a href="http://www.aeroclub-cercle-aerien-peugeot.com">_Le Cercle aérien Peugeot_</a>. (_in french only_) ✈️
 
 <!--
