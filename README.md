@@ -11,7 +11,7 @@ I'm also a (retired) private pilot ✈️.
 #### Currents projects/experiments
 - I begin to do a website that uses the Strava API to track users' walk and run activities and make a little game out of it. The idea is to make users discover a map full of fog-of-war that will be revealed as they walk/run. They can also collect Peaks (mountain summits) and places. It uses React Native for the frontend and Python for the backend. <a href="https://github.com/Tamiir/Peak">Peak</a>
 - I'm making a website for my TIPE (see below). I'm doing the frontend and the API to work with the backend i did several years ago. The goal is to make this project available for anyone. 🚲
-- Ive made a network scanner script in shell script that uses nmap and other tools to gather information about a target. It creates a report at the end of the scan. <a href="https://github.com/Tamiir/scan_net">scan_net</a>
+- Ive made a network scanner script in shell script that uses nmap and other tools to gather information about hosts of the network you're in. It creates a report at the end of the scan. <a href="https://github.com/Tamiir/scan_net">scan_net</a>
 
 #### Previous projects  
 - I tried to automate the Super Mario 64 DS mini game _Wanted_ using image recognition. This project is a bit left behind. You can check this out and help me <a href="https://github.com/Tamiir/AutoWantedMiniGame">here</a> !
